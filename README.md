@@ -8,7 +8,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp; C++ | Python | Java 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | jQuery | NodeJS | ReactJS | RESTful API | Security & Authentication
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | jQuery | NodeJS | ReactJS | RESTful API | Security & Authentication | Data Structure | Algorithms
 - 🛢 &nbsp; MySQL | mongoDB 
 - ⚙️ &nbsp; Git | Github 
 - 🔧 &nbsp; VScode | Atom
