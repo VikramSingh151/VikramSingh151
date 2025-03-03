@@ -3,14 +3,15 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Engineering at Visvesvaraya Technolgical University.
+- 🎓 &nbsp; Completed Computer Science and Engineering at Visvesvaraya Technolgical University.
+- nbsp;Currently working as Senior Software Engineer at Tata Elxsi Limited
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp; C++ | Python | Java 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | jQuery | NodeJS | ReactJS | RESTful API | Security & Authentication | Data Structure | Algorithms
+- 💻 &nbsp; Java | Kotlin | C++ | JavaScript  
+- 🌐 &nbsp; Android Development | Android Framework Development | HTML | CSS | Bootstrap | jQuery | NodeJS | ReactJS | RESTful API | Security & Authentication | Data Structure | Algorithms
 - 🛢 &nbsp; MySQL | mongoDB | PostgreSQL 
-- ⚙️ &nbsp; Git | Github | Gerrit | BitBucket
+- ⚙️ &nbsp; JIRA | Confluence | Git | Github | Gerrit | BitBucket | JUnit | Mockito/PowerMockito | Roboeletric
 - 🔧 &nbsp; VScode | Atom | Android Studio | Intellij IDEA
 
 <br/>
