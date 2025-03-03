@@ -9,9 +9,9 @@
 
 - 💻 &nbsp; C++ | Python | Java 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | jQuery | NodeJS | ReactJS | RESTful API | Security & Authentication | Data Structure | Algorithms
-- 🛢 &nbsp; MySQL | mongoDB 
-- ⚙️ &nbsp; Git | Github 
-- 🔧 &nbsp; VScode | Atom
+- 🛢 &nbsp; MySQL | mongoDB | PostgreSQL 
+- ⚙️ &nbsp; Git | Github | Gerrit | BitBucket
+- 🔧 &nbsp; VScode | Atom | Android Studio | Intellij IDEA
 
 <br/>
 
