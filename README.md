@@ -4,12 +4,11 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Completed Computer Science and Engineering at Visvesvaraya Technolgical University.
-- nbsp;Currently working as Senior Software Engineer at Tata Elxsi Limited
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp; Java | Kotlin | C++ | JavaScript  
-- 🌐 &nbsp; Android Development | Android Framework Development | HTML | CSS | Bootstrap | jQuery | NodeJS | ReactJS | RESTful API | Security & Authentication | Data Structure | Algorithms
+- 🌐 &nbsp; Android Development | Android Framework Development | Jetpack Compose | KMP/KMM/Compose Multiplatform |HTML | CSS | Bootstrap | jQuery | NodeJS | ReactJS | RESTful API | Security & Authentication | Data Structure | Algorithms
 - 🛢 &nbsp; MySQL | mongoDB | PostgreSQL 
 - ⚙️ &nbsp; JIRA | Confluence | Git | Github | Gerrit | BitBucket | JUnit | Mockito/PowerMockito | Roboeletric
 - 🔧 &nbsp; VScode | Atom | Android Studio | Intellij IDEA
