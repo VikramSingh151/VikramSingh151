@@ -8,7 +8,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp; Java | Kotlin | C++ | JavaScript  
-- 🌐 &nbsp; Android Development | Android Framework Development | Jetpack Compose | KMP/KMM/Compose Multiplatform | Firebase | HTML | CSS | Bootstrap | jQuery | NodeJS | ReactJS | RESTful API | Security & Authentication | Data Structure | Algorithms
+- 🌐 &nbsp; Android Development | Android Framework Develomnpment | Jetpack Compose | KMP/KMM/Compose Multiplatform | Firebase | HTML | CSS | Bootstrap | jQuery | NodeJS | ReactJS | RESTful API | Security & Authentication | Data Structure | Algorithms
 - 🛢 &nbsp; MySQL | mongoDB | PostgreSQL 
 - ⚙️ &nbsp; JIRA | Confluence | Git | Github | Gerrit | BitBucket | JUnit | Mockito/PowerMockito | Roboeletric | MVVM/MVC/MVP | Retrofit | CI/CD Pipeline | AWS
 - 🔧 &nbsp; VScode | Atom | Android Studio | Intellij IDEA
